@@ -1,4 +1,4 @@
-# Two-Pass Assembler for a Washing Machine System - Computer Organization(CEECC07)
+# Two-Pass Assembler for a Washing Machine System - Computer Organization(CECSC07)
 
 This is a project which aims to build a **Two-Pass Assembler for a real world system.**
 
