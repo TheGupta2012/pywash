@@ -1,4 +1,4 @@
-# Two-Pass Assembler for a Washing Machine System - Computer Organization(CECSC07)
+# Two-Pass Assembler - Computer Organization(CECSC07)
 
 This is a project which aims to build a **Two-Pass Assembler for a real world system.**
 
@@ -11,7 +11,7 @@ This is a project which aims to build a **Two-Pass Assembler for a real world sy
 
 ## Objective
 
-- To create a two-pass assembler for a washing machine system which produces a binary output for a task to be executed on it.
+- To create a two-pass assembler and implement it for a washing machine system which produces a binary output for a task to be executed on it.
 - Washing machine is a simple system whose operations can be emulated through software. In our assembler, it is asumed that the operations happening on the hardware level are implemented in the system itself and what we provide is a binary translated output of the provided assembly level program.
 
 ## Installation and Usage
